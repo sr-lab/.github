@@ -40,7 +40,7 @@ We work in domains such as:
 ## 👥 People
 
 Our group includes faculty, PhD students, MSc students, and collaborators passionate about software reliability and real-world impact.  
-See the full team: [sr-lab.github.io/#people](https://sr-lab.github.io/#people)
+See the full team: [sr-lab.github.io/#people](https://sr-lab.github.io/people)
 
 ---
 
@@ -49,7 +49,7 @@ See the full team: [sr-lab.github.io/#people](https://sr-lab.github.io/#people)
 We publish at top-tier venues like ICSE, FSE, ASE, ISSTA, ICST, TSE, and ESEM.
 You can browse our recent publications here:
 
-- 📜 [Lab Publications Page](https://sr-lab.github.io/#publications)
+- 📜 [Lab Publications Page](https://sr-lab.github.io/publications)
 
 ---
 
@@ -63,7 +63,7 @@ We're always open to collaboration. If you are a student, researcher, or practit
 
 For opportunities, see our [Research Opportunities page](https://sr-lab.github.io/opportunities).
 
-Feel free to [get in touch](https://sr-lab.github.io/#contact)!
+Feel free to [get in touch](https://sr-lab.github.io/contact)!
 
 ---
 
